@@ -7,5 +7,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(CCC19S2.cpp CCC19S2.cpp)
-add_executable(CCC02S3.cpp CCC02S3.cpp)
+add_executable(AbsolutelyAcidic.cpp AbsolutelyAcidic.cpp PhonomenalReviews.cpp)
