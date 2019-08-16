@@ -6,6 +6,8 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
+//don't try too hard to make everything a graph problem
+//just traversing it like a sudoku would have worked
 bool is_valid(int x,int y,string b[],int r){
     if(0<=x&&x<b[0].size()){
         if(0<=y&& y<r){

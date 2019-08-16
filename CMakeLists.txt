@@ -6,5 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-
-add_executable(AbsolutelyAcidic.cpp AbsolutelyAcidic.cpp PhonomenalReviews.cpp)
+add_executable(NQueensProblem.cpp NQueensProblem.cpp)
+add_executable(sudokusolver.cpp sudokusolver.cpp)
