@@ -6,5 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 
-add_executable(NQueensProblem.cpp NQueensProblem.cpp)
-add_executable(sudokusolver.cpp sudokusolver.cpp)
+
+
+add_executable(HeistNight.cpp HeistNight.cpp)
+add_executable(PourWater.cpp PourWater.cpp)
